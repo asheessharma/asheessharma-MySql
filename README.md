@@ -18,7 +18,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/asheessharma/asheessharma-MySql/tree/master/0443-string-compression) |
 # String
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/asheessharma/asheessharma-MySql/tree/master/0443-string-compression) |
