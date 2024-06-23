@@ -1,5 +1,9 @@
 # asheessharma-MySql
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+This repository contains my solutions to LeetCode problems categorized into JavaScript, Data Structures and Algorithms (DSA), and database-specific challenges.
+🌟 Features:
+| JavaScript Solutions: Clear and concise implementations of LeetCode problems in JavaScript. |
+| DSA Implementations: Efficient algorithms and data structures tailored for LeetCode's challenges. |
+| Database Queries: SQL solutions to database-specific problems on LeetCode. |
 
 
 # Database
