@@ -24,12 +24,14 @@ This repository contains my solutions to LeetCode problems categorized into Java
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/asheessharma/asheessharma-MySql/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/asheessharma/asheessharma-MySql/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/asheessharma/asheessharma-MySql/tree/master/1798-max-number-of-k-sum-pairs) |
 # String
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/asheessharma/asheessharma-MySql/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/asheessharma/asheessharma-MySql/tree/master/0443-string-compression) |
 # Array
 |  |
@@ -43,3 +45,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 |  |
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/asheessharma/asheessharma-MySql/tree/master/1798-max-number-of-k-sum-pairs) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/asheessharma/asheessharma-MySql/tree/master/0392-is-subsequence) |
