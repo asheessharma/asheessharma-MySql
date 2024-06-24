@@ -37,6 +37,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 # Array
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/asheessharma/asheessharma-MySql/tree/master/1046-max-consecutive-ones-iii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/asheessharma/asheessharma-MySql/tree/master/1798-max-number-of-k-sum-pairs) |
 # Hash Table
 |  |
@@ -50,3 +51,15 @@ This repository contains my solutions to LeetCode problems categorized into Java
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/asheessharma/asheessharma-MySql/tree/master/0392-is-subsequence) |
+# Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/asheessharma/asheessharma-MySql/tree/master/1046-max-consecutive-ones-iii) |
+# Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/asheessharma/asheessharma-MySql/tree/master/1046-max-consecutive-ones-iii) |
+# Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/asheessharma/asheessharma-MySql/tree/master/1046-max-consecutive-ones-iii) |
