@@ -19,6 +19,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 | [1415-students-and-examinations](https://github.com/asheessharma/asheessharma-MySql/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/asheessharma/asheessharma-MySql/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/asheessharma/asheessharma-MySql/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1801-average-time-of-process-per-machine](https://github.com/asheessharma/asheessharma-MySql/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/asheessharma/asheessharma-MySql/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/asheessharma/asheessharma-MySql/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/asheessharma/asheessharma-MySql/tree/master/2087-confirmation-rate) |
