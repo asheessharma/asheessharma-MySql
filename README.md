@@ -38,6 +38,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/asheessharma/asheessharma-MySql/tree/master/1046-max-consecutive-ones-iii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/asheessharma/asheessharma-MySql/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/asheessharma/asheessharma-MySql/tree/master/1798-max-number-of-k-sum-pairs) |
 # Hash Table
 |  |
@@ -51,6 +52,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/asheessharma/asheessharma-MySql/tree/master/0392-is-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/asheessharma/asheessharma-MySql/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 # Binary Search
 |  |
 | ------- |
@@ -59,6 +61,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/asheessharma/asheessharma-MySql/tree/master/1046-max-consecutive-ones-iii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/asheessharma/asheessharma-MySql/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 # Prefix Sum
 |  |
 | ------- |
