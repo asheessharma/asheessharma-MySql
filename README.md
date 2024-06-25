@@ -39,12 +39,14 @@ This repository contains my solutions to LeetCode problems categorized into Java
 # Array
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/asheessharma/asheessharma-MySql/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/asheessharma/asheessharma-MySql/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/asheessharma/asheessharma-MySql/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/asheessharma/asheessharma-MySql/tree/master/1798-max-number-of-k-sum-pairs) |
 # Hash Table
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/asheessharma/asheessharma-MySql/tree/master/0940-fruit-into-baskets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/asheessharma/asheessharma-MySql/tree/master/1798-max-number-of-k-sum-pairs) |
 # Sorting
 |  |
@@ -62,6 +64,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 # Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/asheessharma/asheessharma-MySql/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/asheessharma/asheessharma-MySql/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/asheessharma/asheessharma-MySql/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/asheessharma/asheessharma-MySql/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
