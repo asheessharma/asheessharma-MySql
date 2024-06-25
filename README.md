@@ -34,6 +34,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 | [0345-reverse-vowels-of-a-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/asheessharma/asheessharma-MySql/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/asheessharma/asheessharma-MySql/tree/master/0443-string-compression) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/asheessharma/asheessharma-MySql/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 # Array
 |  |
 | ------- |
@@ -61,6 +62,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/asheessharma/asheessharma-MySql/tree/master/1046-max-consecutive-ones-iii) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/asheessharma/asheessharma-MySql/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/asheessharma/asheessharma-MySql/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 # Prefix Sum
 |  |
