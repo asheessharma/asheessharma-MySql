@@ -5,21 +5,39 @@ class Solution {
         int maxLen = 0;
         int n = arr.length;
         int len;
-        while(r<n){
+        // while(r<n){
+        //     if(arr[r] == 0){
+        //         zeros++;
+
+        //     }
+        //     if(zeros>k){
+        //         if(arr[l]==0){
+        //             zeros--;
+        //         }
+        //         l++;
+        //     }
+        //     if(zeros<=k){
+        //         len = r - l + 1;
+        //         maxLen = Math.max(len,maxLen);
+        //     }
+        //     r++;
+        // }
+        // return maxLen;
+         while(r<n){
             if(arr[r] == 0){
                 zeros++;
 
             }
-            if(zeros>k){
+            while(zeros>k){
                 if(arr[l]==0){
                     zeros--;
                 }
                 l++;
             }
-            if(zeros<=k){
+            
                 len = r - l + 1;
                 maxLen = Math.max(len,maxLen);
-            }
+     
             r++;
         }
         return maxLen;
