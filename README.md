@@ -41,6 +41,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/asheessharma/asheessharma-MySql/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/asheessharma/asheessharma-MySql/tree/master/0724-find-pivot-index) |
 | [0940-fruit-into-baskets](https://github.com/asheessharma/asheessharma-MySql/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/asheessharma/asheessharma-MySql/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/asheessharma/asheessharma-MySql/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -74,4 +75,5 @@ This repository contains my solutions to LeetCode problems categorized into Java
 # Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/asheessharma/asheessharma-MySql/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/asheessharma/asheessharma-MySql/tree/master/1046-max-consecutive-ones-iii) |
