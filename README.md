@@ -40,6 +40,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 # Array
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/asheessharma/asheessharma-MySql/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/asheessharma/asheessharma-MySql/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/asheessharma/asheessharma-MySql/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/asheessharma/asheessharma-MySql/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -65,6 +66,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 # Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/asheessharma/asheessharma-MySql/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/asheessharma/asheessharma-MySql/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/asheessharma/asheessharma-MySql/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/asheessharma/asheessharma-MySql/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
