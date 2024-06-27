@@ -37,6 +37,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 | [0345-reverse-vowels-of-a-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/asheessharma/asheessharma-MySql/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/asheessharma/asheessharma-MySql/tree/master/0443-string-compression) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/asheessharma/asheessharma-MySql/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/asheessharma/asheessharma-MySql/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 # Array
 |  |
@@ -78,3 +79,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 | ------- |
 | [0724-find-pivot-index](https://github.com/asheessharma/asheessharma-MySql/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/asheessharma/asheessharma-MySql/tree/master/1046-max-consecutive-ones-iii) |
+# Math
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/asheessharma/asheessharma-MySql/tree/master/1146-greatest-common-divisor-of-strings) |
