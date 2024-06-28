@@ -43,6 +43,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 # Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/asheessharma/asheessharma-MySql/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/asheessharma/asheessharma-MySql/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/asheessharma/asheessharma-MySql/tree/master/0724-find-pivot-index) |
 | [0940-fruit-into-baskets](https://github.com/asheessharma/asheessharma-MySql/tree/master/0940-fruit-into-baskets) |
@@ -84,3 +85,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/asheessharma/asheessharma-MySql/tree/master/1146-greatest-common-divisor-of-strings) |
+# Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/asheessharma/asheessharma-MySql/tree/master/0605-can-place-flowers) |
