@@ -95,9 +95,11 @@ This repository contains my solutions to LeetCode problems categorized into Java
 ## Array
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/asheessharma/asheessharma-MySql/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/asheessharma/asheessharma-MySql/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/asheessharma/asheessharma-MySql/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/asheessharma/asheessharma-MySql/tree/master/1392-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
