@@ -106,6 +106,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/0394-decode-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/asheessharma/asheessharma-MySql/tree/master/1777-determine-if-two-strings-are-close) |
 ## Sorting
 |  |
@@ -115,4 +116,12 @@ This repository contains my solutions to LeetCode problems categorized into Java
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/asheessharma/asheessharma-MySql/tree/master/1777-determine-if-two-strings-are-close) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
