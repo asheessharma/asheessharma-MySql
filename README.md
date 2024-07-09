@@ -108,6 +108,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 | ------- |
 | [0394-decode-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/0394-decode-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/asheessharma/asheessharma-MySql/tree/master/1777-determine-if-two-strings-are-close) |
+| [2470-removing-stars-from-a-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -120,8 +121,13 @@ This repository contains my solutions to LeetCode problems categorized into Java
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/0394-decode-string) |
+| [2470-removing-stars-from-a-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/0394-decode-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
