@@ -106,6 +106,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/asheessharma/asheessharma-MySql/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/0394-decode-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/asheessharma/asheessharma-MySql/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/2470-removing-stars-from-a-string) |
@@ -120,6 +121,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/asheessharma/asheessharma-MySql/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/0394-decode-string) |
 | [2470-removing-stars-from-a-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
