@@ -95,6 +95,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/asheessharma/asheessharma-MySql/tree/master/0042-trapping-rain-water) |
 | [1319-unique-number-of-occurrences](https://github.com/asheessharma/asheessharma-MySql/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/asheessharma/asheessharma-MySql/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Hash Table
@@ -122,6 +123,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/asheessharma/asheessharma-MySql/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/asheessharma/asheessharma-MySql/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/0394-decode-string) |
 | [2470-removing-stars-from-a-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
@@ -132,4 +134,16 @@ This repository contains my solutions to LeetCode problems categorized into Java
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/2470-removing-stars-from-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/asheessharma/asheessharma-MySql/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/asheessharma/asheessharma-MySql/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/asheessharma/asheessharma-MySql/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
