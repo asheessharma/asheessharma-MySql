@@ -101,6 +101,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/asheessharma/asheessharma-MySql/tree/master/0076-minimum-window-substring) |
 | [1319-unique-number-of-occurrences](https://github.com/asheessharma/asheessharma-MySql/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/asheessharma/asheessharma-MySql/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/asheessharma/asheessharma-MySql/tree/master/1777-determine-if-two-strings-are-close) |
@@ -108,6 +109,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/asheessharma/asheessharma-MySql/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/asheessharma/asheessharma-MySql/tree/master/0076-minimum-window-substring) |
 | [0394-decode-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/0394-decode-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/asheessharma/asheessharma-MySql/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/2470-removing-stars-from-a-string) |
@@ -146,4 +148,8 @@ This repository contains my solutions to LeetCode problems categorized into Java
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/asheessharma/asheessharma-MySql/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/asheessharma/asheessharma-MySql/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
