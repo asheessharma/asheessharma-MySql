@@ -111,6 +111,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 | [0020-valid-parentheses](https://github.com/asheessharma/asheessharma-MySql/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/asheessharma/asheessharma-MySql/tree/master/0076-minimum-window-substring) |
 | [0394-decode-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/0394-decode-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/asheessharma/asheessharma-MySql/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1777-determine-if-two-strings-are-close](https://github.com/asheessharma/asheessharma-MySql/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
@@ -128,6 +129,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 | [0042-trapping-rain-water](https://github.com/asheessharma/asheessharma-MySql/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/asheessharma/asheessharma-MySql/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/0394-decode-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/asheessharma/asheessharma-MySql/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2470-removing-stars-from-a-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
 |  |
@@ -161,4 +163,8 @@ This repository contains my solutions to LeetCode problems categorized into Java
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/asheessharma/asheessharma-MySql/tree/master/0232-implement-queue-using-stacks) |
+## Greedy
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/asheessharma/asheessharma-MySql/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
