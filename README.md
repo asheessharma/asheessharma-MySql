@@ -126,6 +126,7 @@ This repository contains my solutions to LeetCode problems categorized into Java
 | ------- |
 | [0020-valid-parentheses](https://github.com/asheessharma/asheessharma-MySql/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/asheessharma/asheessharma-MySql/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/asheessharma/asheessharma-MySql/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/0394-decode-string) |
 | [2470-removing-stars-from-a-string](https://github.com/asheessharma/asheessharma-MySql/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
@@ -152,4 +153,12 @@ This repository contains my solutions to LeetCode problems categorized into Java
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/asheessharma/asheessharma-MySql/tree/master/0076-minimum-window-substring) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/asheessharma/asheessharma-MySql/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/asheessharma/asheessharma-MySql/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
